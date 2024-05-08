@@ -158,3 +158,13 @@ const frutasinvertidas =frutas.slice().reverse();
 
 const numeros = [1,2,3,4,5,6,7,8,9,10];
 numeros.forEach(numero => console.log(numero));
+ 
+var status = ["encendido","apagado","en proceso"];
+const digito = 3;
+
+if (digito => 2) {
+    console.log(numeros[1]);
+}
+else {
+    console.log(numeros[2]);
+}
